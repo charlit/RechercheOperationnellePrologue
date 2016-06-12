@@ -1,5 +1,5 @@
 # RechercheOperationnellePrologue
-Epsi I4 2016
+Epsi Bordeaux I4 2016 Prologue
 
 TP Morse
 
