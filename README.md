@@ -8,3 +8,5 @@ TP traducteur
 TP Système Expert, 2 versions différentes
 
 TP Tram Bordeaux
+
+Le partiel de Juin 2016
