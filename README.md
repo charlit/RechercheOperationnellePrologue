@@ -11,4 +11,4 @@ TP Morpion
 
 TP Tram Bordeaux
 
-Le partiel de Juin 2016, c'est ce que j'ai rendu pour l'examen mais je n'ai tout fini.
+Le partiel de Juin 2016, c'est ce que j'ai rendu pour l'examen mais je n'ai pas tout fini.
